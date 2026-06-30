@@ -1,2 +1,2 @@
 # Loan-Risk-Modeling
-Project leveraging data preprocessing and random forest classification to identify loan success based on features such as credit history.
+Leverage decision trees and random forest classification to identify loan success or default prediction based on features such as credit history and income level using Kaggle's Lending Club Loan Data or Loan Prediction Dataset.
